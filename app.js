@@ -75,7 +75,7 @@ function register() {
 
   saveUsers(users);
 
-  showToast(" Account waa la sameeyay");
+  alert(" Account waa la sameeyay");
 
 
   document.getElementById("registerUsername").value = "";
